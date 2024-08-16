@@ -29,11 +29,11 @@ const App = () => {
           }}
         >
           <Services />
+          <Banner />
+          <BannerText />
+          <Blogs />
+          <Footer />
         </UpdateFollower>
-        <Banner />
-        <BannerText />
-        <Blogs />
-        <Footer />
       </main>
     </>
   );
